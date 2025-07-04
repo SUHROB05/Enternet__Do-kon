@@ -154,7 +154,7 @@ export const CartPageCard = ({ id, cover, name, price, quantity, totalPrice }) =
                     </button>
                 </div>
             </td>
-            <td className="px-6 py-4">b
+            <td className="px-6 py-4">
                 <BodyOne>${totalPrice.toFixed(2)}</BodyOne>
             </td>
             <td className="px-6 py-4">
